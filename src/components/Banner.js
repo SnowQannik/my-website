@@ -80,6 +80,3 @@ export const Banner = () => {
     </section>
   )
 }
-
-
-
