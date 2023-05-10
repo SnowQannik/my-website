@@ -16,8 +16,9 @@ export const Footer = () => {
             <div className="social-icon">
               <a href="https://www.linkedin.com/in/uditanshu-khatri-8ab185162/"><img src={navIcon1} alt="Icon" /></a>
               <a href="https://github.com/SnowQannik"><img src={navIcon2} alt="Icon" /></a>
-              <a href="https://www.instagram.com/uditanshukhatri/"><img src={navIcon3} alt="Icon" /></a>
+              <a href="mailto:udkhatri23@gmail.com"><img src={navIcon3} alt="Icon" /></a>
             </div>
+            <p>Click "@" for email!</p>
             <p>Copyright 2023. All Rights Reserved</p>
           </Col>
         </Row>
