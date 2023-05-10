@@ -60,7 +60,7 @@ export const Projects = () => {
       title: "Portfolio Website",
       description: "(This Website)",
       imgUrl: portimg,
-      url:"https://github.com/SnowQannik/Reseach-Paper-Compression",
+      url:"https://github.com/SnowQannik/my-website.git",
     },
     
   ];

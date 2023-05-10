@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
+import resumePDF from "../assets/pdf/Uditanshu_Khatri_Resume.pdf";
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -58,6 +59,11 @@ export const Banner = () => {
                 <h1>{`Hi! I'm Uditanshu`}  <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Developer", "Web Developer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Welcome to my portfolio website! I'm Uditanshu Khatri, a Computer Science Masters student with experience teaching programming and database learning at Z King, and software development at Ledvance. Check out my projects below!</p>
                   {/* <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
+                  <button>
+                    <a className = 'resumeButton' href={resumePDF} download="Uditanshu Khatri Resume">
+                      Download Resume
+                      </a>
+                  </button>
               </div>}
             </TrackVisibility>
           </Col>
