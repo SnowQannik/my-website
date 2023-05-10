@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UditanshuKhatri/static/css/main.8e87495d.css",
-    "main.js": "/UditanshuKhatri/static/js/main.11749b08.js",
+    "main.js": "/UditanshuKhatri/static/js/main.f01b3a04.js",
     "static/js/787.fb771931.chunk.js": "/UditanshuKhatri/static/js/787.fb771931.chunk.js",
     "static/media/banner-bg.png": "/UditanshuKhatri/static/media/banner-bg.9ce69e28d97e5e8a6734.png",
     "static/media/portimg.png": "/UditanshuKhatri/static/media/portimg.499c01c36efa98412bbe.png",
@@ -34,11 +34,11 @@
     "index.html": "/UditanshuKhatri/index.html",
     "static/media/nav-icon1.svg": "/UditanshuKhatri/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.8e87495d.css.map": "/UditanshuKhatri/static/css/main.8e87495d.css.map",
-    "main.11749b08.js.map": "/UditanshuKhatri/static/js/main.11749b08.js.map",
+    "main.f01b3a04.js.map": "/UditanshuKhatri/static/js/main.f01b3a04.js.map",
     "787.fb771931.chunk.js.map": "/UditanshuKhatri/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e87495d.css",
-    "static/js/main.11749b08.js"
+    "static/js/main.f01b3a04.js"
   ]
 }

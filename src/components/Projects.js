@@ -7,7 +7,7 @@ import newsApp from "../assets/img/newsApp.png";
 import TouchStone from "../assets/img/TouchStone.png";
 import research1 from "../assets/img/research1.png";
 import portimg from "../assets/img/portimg.png";
-import colorSharp2 from "../assets/img/color-sharp2.png";
+import colorSharp2 from "../assets/img/color-sharp.png";
 import javaCert from "../assets/img/javaCert.png";
 import machineCert from "../assets/img/machineCert.png";
 import 'animate.css';
