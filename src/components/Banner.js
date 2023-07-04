@@ -57,7 +57,7 @@ export const Banner = () => {
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                 <span className="tagline">This is my Portfolio</span>
                 <h1>{`Hi! I'm Uditanshu`}  <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Software Developer", "Web Developer" ]'><span className="wrap">{text}</span></span></h1>
-                  <p>Welcome to my portfolio website! I'm Uditanshu Khatri, a Computer Science Masters student with experience teaching programming and database learning at Z King, and software development at Ledvance. Check out some of my work below!</p>
+                  <p>Welcome! I'm Uditanshu Khatri, an AWS Certified Software Developer and AI enthusiast. With a strong background in Computer Science and hands-on industry experience, I specialize in Python, Java, SQL, and large language model architectures. Passionate about solving complex problems and translating tech jargon into simple, digestible information, I am dedicated to using AI for societal betterment. Explore my portfolio to get a sense of my work, passion, and commitment to innovation. Check out some of my work below!</p>
                   {/* <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button> */}
                   <button>
                     <a className = 'resumeButton' href={resumePDF} download="Uditanshu Khatri Resume">
