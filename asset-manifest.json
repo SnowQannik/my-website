@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/UditanshuKhatri/static/css/main.8e87495d.css",
-    "main.js": "/UditanshuKhatri/static/js/main.363deb41.js",
+    "main.js": "/UditanshuKhatri/static/js/main.6dd64b33.js",
     "static/js/787.fb771931.chunk.js": "/UditanshuKhatri/static/js/787.fb771931.chunk.js",
     "static/media/banner-bg.png": "/UditanshuKhatri/static/media/banner-bg.9ce69e28d97e5e8a6734.png",
     "static/media/portimg.png": "/UditanshuKhatri/static/media/portimg.499c01c36efa98412bbe.png",
@@ -10,9 +10,9 @@
     "static/media/newsApp.png": "/UditanshuKhatri/static/media/newsApp.ad9ef86cfd20690c96ec.png",
     "static/media/wikiSearch.png": "/UditanshuKhatri/static/media/wikiSearch.a4752b17abe6a4cb8041.png",
     "static/media/color-sharp.png": "/UditanshuKhatri/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Uditanshu_Khatri_Resume.pdf": "/UditanshuKhatri/static/media/Uditanshu_Khatri_Resume.a025981aa9a3be6ee352.pdf",
     "static/media/header-img.png": "/UditanshuKhatri/static/media/header-img.c3d77e6dae2f3dcc586c.png",
     "static/media/TouchStone.png": "/UditanshuKhatri/static/media/TouchStone.49a2dc8a06c36b38fd9e.png",
-    "static/media/Uditanshu_Khatri_Resume.pdf": "/UditanshuKhatri/static/media/Uditanshu_Khatri_Resume.9aa13041d2ede88b3625.pdf",
     "static/media/research1.png": "/UditanshuKhatri/static/media/research1.062b2cd763be270aef03.png",
     "static/media/CentraNo2-Bold.ttf": "/UditanshuKhatri/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/UditanshuKhatri/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
@@ -32,11 +32,11 @@
     "index.html": "/UditanshuKhatri/index.html",
     "static/media/nav-icon1.svg": "/UditanshuKhatri/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.8e87495d.css.map": "/UditanshuKhatri/static/css/main.8e87495d.css.map",
-    "main.363deb41.js.map": "/UditanshuKhatri/static/js/main.363deb41.js.map",
+    "main.6dd64b33.js.map": "/UditanshuKhatri/static/js/main.6dd64b33.js.map",
     "787.fb771931.chunk.js.map": "/UditanshuKhatri/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e87495d.css",
-    "static/js/main.363deb41.js"
+    "static/js/main.6dd64b33.js"
   ]
 }
